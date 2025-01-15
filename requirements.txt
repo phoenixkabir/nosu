@@ -1,0 +1,16 @@
+gTTS
+numpy
+scipy
+sounddevice
+playsound
+speechrecognition
+transformers
+torch
+PyPDF2
+groq  
+wave  
+pyaudio
+pydub
+asyncio 
+hume
+ollama
